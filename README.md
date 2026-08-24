@@ -107,22 +107,18 @@ const joel = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelgjojo&layout=compact&theme=tokyonight&langs_count=8" width="48%" alt="Top Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joelgjojo&theme=tokyo-night&hide_border=true" width="48%" alt="Activity Graph" />
-</p>
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joelgjojo&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelgjojo&layout=compact&theme=tokyonight&langs_count=8" width="60%" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🐍 Contribution Graph Snake
-<!-- Requires the snake GitHub Action pushing to the `output` branch -->
+<!--
+  BLANK UNTIL YOU SET THIS UP: this image only exists after a GitHub Action
+  in this repo generates it and pushes it to an `output` branch. See the
+  workflow file provided separately — add it to .github/workflows/snake.yml,
+  push, then this will render. Until then, comment the block below out.
+-->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joelgjojo/joelgjojo/output/github-snake-dark.svg">
