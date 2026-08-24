@@ -34,57 +34,38 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/joelgjojo008">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
-      alt="LinkedIn"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
 
   <a href="https://instagram.com/joelgjojo">
-    <img
-      src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F"
-      alt="Instagram"
-    />
+    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
 
   <a href="https://x.com/joelgjojo">
-    <img
-      src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"
-      alt="X"
-    />
+    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 
   <a href="mailto:joelgjojo008@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"
-      alt="Email"
-    />
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
 
   <a href="https://vyqo-dsgn.vercel.app">
-    <img
-      src="https://img.shields.io/badge/VYQO_DSGN-111111?style=for-the-badge&logo=vercel&logoColor=white"
-      alt="VYQO DSGN"
-    />
+    <img src="https://img.shields.io/badge/VYQO_DSGN-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<!-- ========================================================= -->
-<!--                       ABOUT                                -->
-<!-- ========================================================= -->
-
 <h2 align="center">👋 About Me</h2>
 
 <p align="center">
   I'm <b>Joel G Jojo</b>, a UI/UX designer and web developer
-  with an interest in building digital products and experiences.
+  interested in creating digital products and experiences.
 </p>
 
 <p align="center">
   I enjoy combining <b>design, code, and AI</b> to create interfaces,
-  websites, and digital products.
+  websites, and digital experiences.
 </p>
 
 <p align="center">
@@ -161,7 +142,7 @@ Modern websites and digital products with a focus on usability and design.
 
 ### AI
 
-Exploring practical applications of AI in software and product experiences.
+Practical applications of AI in software and digital products.
 
 </td>
 
@@ -187,20 +168,6 @@ Visual identity, creative direction and digital brand experiences.
 
 <td width="50%" valign="top">
 
-## 🗺️ EvidMap
-
-An AI-powered visual investigation workspace created for **Hac'KP 2026**, the Kerala Police National Hackathon.
-
-**Focus**
-
-`AI` `React` `Python` `FastAPI` `Graph Visualization`
-
-🏆 **Top 215 / 1500**
-
-</td>
-
-<td width="50%" valign="top">
-
 ## 🎨 VYQO DSGN
 
 My freelance design and development studio focused on branding, UI/UX, websites and digital experiences.
@@ -209,17 +176,11 @@ My freelance design and development studio focused on branding, UI/UX, websites 
 
 `Branding` `UI/UX` `Web Development` `Creative Design`
 
-🟢 **Active**
-
 <a href="https://vyqo-dsgn.vercel.app">
 <img src="https://img.shields.io/badge/Visit_VYQO-00C6FF?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%" valign="top">
 
@@ -231,7 +192,15 @@ An AI-first creator application designed around content creation, captions, hash
 
 `Flutter` `Dart` `AI`
 
+<a href="https://github.com/joelgjojo/CreateDiff">
+<img src="https://img.shields.io/badge/View_on_GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
@@ -242,6 +211,14 @@ A phone-first developer tool concept focused on turning voice, screenshots and v
 **Focus**
 
 `AI` `Developer Tools` `Mobile` `Product Design`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🚧 More Projects
+
+A collection of experiments, client work and creative development projects.
 
 </td>
 
@@ -274,21 +251,6 @@ A phone-first developer tool concept focused on turning voice, screenshots and v
 
 <p>
   <img src="https://skillicons.dev/icons?i=figma,git,github,vercel,cloudflare" />
-</p>
-
----
-
-# 🏆 Hackathons & Achievements
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Hac'KP%202026-TOP%20215%20%2F%201500-7F00FF?style=for-the-badge" />
-
-</p>
-
-<p align="center">
-  Selected among the <b>Top 215 participants</b> from 1500 submissions
-  in the Kerala Police National Hackathon — Hac'KP 2026.
 </p>
 
 ---
@@ -370,10 +332,6 @@ A phone-first developer tool concept focused on turning voice, screenshots and v
 </p>
 
 ---
-
-<!-- ========================================================= -->
-<!--                       FOOTER                              -->
-<!-- ========================================================= -->
 
 <p align="center">
   <b>Design × Code × AI</b>
