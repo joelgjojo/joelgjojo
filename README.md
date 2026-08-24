@@ -14,7 +14,5 @@
 ---
 [![](https://komarev.com/ghpvc/?username=joelgjojo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
